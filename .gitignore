@@ -1,2 +1,6 @@
 *.pickle
 env.py
+shard/*
+wor*
+__py*
+*.ann
